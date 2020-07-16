@@ -1,0 +1,9 @@
+export const FETCHING = "FETCHING";
+export const SUCCESS = "SUCCESS";
+export const ERROR = "ERROR";
+
+export const FETCH_ALL_POKEMONS = "FETCH_ALL_POKEMONS";
+export const SUCCESS_ALL_POKEMON = "SUCCESS_ALL_POKEMON";
+export const ERROR_ALL_POKEMON = "ERROR_ALL_POKEMON";
+
+export const SET_CURRENT_ID = "SET_CURRENT_ID";
